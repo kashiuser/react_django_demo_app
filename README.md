@@ -6,3 +6,4 @@ docker-compose up -d
 
 docker-compose
 docker -compose up -d
+dokcker
